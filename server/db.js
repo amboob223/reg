@@ -7,4 +7,6 @@ const pool = new POOL({
     database: "gericka"
 });
 
-module.exports = pool; 
+module.exports = pool;
+
+//
